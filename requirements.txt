@@ -1,6 +1,3 @@
-# Requirements for ST3011 Individual Streamlit Application
-# Install with: pip install -r requirements.txt
-
 streamlit
 pandas
 numpy
