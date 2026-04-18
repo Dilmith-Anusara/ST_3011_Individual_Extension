@@ -86,3 +86,4 @@ See [`requirements.txt`](./requirements.txt) for full details. Key libraries:
 ## Related
 
 - [Group Project Repository](https://github.com/Dilmith-Anusara/ST_3011_Data_Analysis_Group_Project.git) — full statistical analysis notebook and report
+[🚀 Live Demo](https://st3011individualextension-gtqzrm5zltph6vmf3pfdzo.streamlit.app/)
